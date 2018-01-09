@@ -1,10 +1,9 @@
-# 4teso20172018_paginaweb
-¿
-Hola
-Qué
-Tal
-?
+Pàgina web : 4teso20172018_paginaweb
 
-P A U
-A U P
-U P A
+Optativa 4t ESO 2017 2018
+
+2n Quadrimestre
+
+Pràctica PÀGINA WEB
+
+######################################################################################
